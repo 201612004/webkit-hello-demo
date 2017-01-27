@@ -1,0 +1,17 @@
+
+
+
+-----------------------
+
+branch-sadasdsa
+revert
+checkout - for undoing like ctrl-Z
+git asdasdadasd
+git status
+add
+reset
+git checkout -b summary:- to create new branch
+git checkout summary :- go to specified branch so to change branch
+merge :- to merge two branches
+git remote add origin link
+
