@@ -1,19 +1,12 @@
-git init
-revert
-log
-config
-reset
-explorer
-rm
-version
+
 
 
 -----------------------
 
-branch-
+branch-sadasdsa
 revert
 checkout - for undoing like ctrl-Z
-git commit
+git asdasdadasd
 git status
 add
 reset
